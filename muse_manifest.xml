@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="TM-TM-ATL.github.io" resolutions="1x" timestamp="1529210541376">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="TM-TM-ATL.github.io" resolutions="1x" timestamp="1529210720959">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4070580381" ref="index"/>
-    <file name="nomq_index.css" crc="103905827" ref="index"/>
+    <file name="index.css" crc="4071366373" ref="index"/>
+    <file name="nomq_index.css" crc="183797116" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,5 +20,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="67682581" seo="true" mt="1529210535026" redirect="true"/>
+  <file name="index.html" crc="221466790" seo="true" mt="1529210713797" redirect="true"/>
 </manifest>
